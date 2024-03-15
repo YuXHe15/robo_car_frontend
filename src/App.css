@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+.log-container {
+  height: 100px; /* Adjust based on your needs */
+  overflow-y: auto; /* Makes the container scrollable */
+  border: 1px solid #050404; /* Optional: adds a border around the log container */
+  margin-bottom: 20px; /* Adds some space below the container */
+}
